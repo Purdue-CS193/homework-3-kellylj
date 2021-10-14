@@ -2,7 +2,7 @@ Part 1: Write your message here from GitHub
 Hello, future Liam.
 Task 1: 
 // Under this line, describe what the command 'git fetch' does
-
+git fetch gets the changes that have been made to the central repostirory since the local copy of the repository was last updated, and makes those changes in the local repository
 Task 2:
 // Under this line, describe the difference between Git and GitHub
-
+git is the version control system, and github is the hsoting service that lets you manage git repositories.
